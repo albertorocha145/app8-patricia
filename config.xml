@@ -2,13 +2,13 @@
 
 <widget xmlns ="http://www.worg/ns/widgets"
 xmlns:gap ="http://phonegap.com/ns/1.0"
-id ="com.phonegap.example7"
+id ="com.phonegap.example08"
 version ="1.0.0">
 
-<name>app7 Deslizar hacia la izquierda y a la derecha</name>
+<name>app8 Aplicacion que muestra otras</name>
 
 <description>
-Aplicacion que realiza el swipe o deslizamiento en el dispositivo
+Aplicacion que nos puede mostrar otras aplicaciones
 </description>
 
 <author href="http://build.phonegap.com" email="aguilarpatricia882@gmail.com">
